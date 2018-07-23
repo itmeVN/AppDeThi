@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "636568668558",
+    "firebase_url": "https://appdethi.firebaseio.com",
+    "project_id": "appdethi",
+    "storage_bucket": "appdethi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636568668558:android:34c6401fe5f53270",
+        "android_client_info": {
+          "package_name": "com.example.vietpc.appdethi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636568668558-fesj0h6isp3hvfc805hhinutpi62t837.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "636568668558-fesj0h6isp3hvfc805hhinutpi62t837.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1V4CUq5mLLLtmxK9GXEDg3Um-WACQwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
